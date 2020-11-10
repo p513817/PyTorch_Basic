@@ -1,6 +1,6 @@
 # Pytorch深度學習框架X NVIDIA JetsonNano應用-線性回歸與實作
 
-![image](media/gif/linear_regression_Adam.gif)
+![image](media/gif/optim_compare_50fps.gif)
 
 | 作者 | Chia-Chun, Chang |
 | ---- | ---|
